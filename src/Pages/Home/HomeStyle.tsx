@@ -16,7 +16,7 @@ export const MainContent = styled.main`
   justify-content: center;
   height: 100vh;
   width: 100%;
-  background: red;
+  background: linear-gradient(purple, transparent);
 `;
 
 export const DonateForm = styled.form`
